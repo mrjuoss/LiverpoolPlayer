@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LiverpoolPlayer</string>
+    <string name="sample_player_number">10</string>
+    <string name="sample_player_name">M. Salah</string>
+    <string name="sample_description">Sample Description Liverpool secured the services of the talented Irish goalkeeper in the summer of 2015. </string>
+    <string name="sample_group_text">Sample Group Text</string>
+    <string name="detail">detail player</string>
+</resources>
